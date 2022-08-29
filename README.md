@@ -1,2 +1,2 @@
 # Dicoding-Submission-machine-learning
-Ini merupakan Submision Dicodng kelas Belajar Machine Learning Untuk Pemula
+Ini merupakan Submision Dicoding kelas Belajar Machine Learning Untuk Pemula
